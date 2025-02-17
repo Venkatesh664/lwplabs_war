@@ -7,7 +7,7 @@
 
 
 
-<h1> First CI/CD Project </h1>
+<h1> First CI/CD Pro </h1>
 
 
 
