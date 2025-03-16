@@ -39,7 +39,7 @@
           <path>/${project.artifactId}</path>
           <url>http://34.229.79.158:8080/manager/text</url>
           <username>admin</username>
-          <password>adminadmin</password>
+          <password>@197Y1a0236</password>
           <update>true</update>
         </configuration>
       </plugin>
