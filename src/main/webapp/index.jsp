@@ -2,7 +2,7 @@
 <body>
 <h1> CI-CD: 4 Docker Project </h1>
   
-  <h2> Tools used in this Project:  EC2, VPC, Git, Maven, Jenkins, Tomcat, web Server, Proxy pass b/w web. & app server </h2>
+  <h2> Deploying artifact from S3 to Docker Container </h2>
 
 
 
