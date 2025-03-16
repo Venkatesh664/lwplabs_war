@@ -37,7 +37,7 @@
         <version>2.2</version>
         <configuration>
           <path>/${project.artifactId}</path>
-          <url>http://34.229.79.158:8080/manager/text</url>
+          <url>http://54.196.59.194:8080/manager/text</url>
           <username>admin</username>
           <password>@197Y1a0236</password>
           <update>true</update>
